@@ -1,0 +1,29 @@
+{
+  "Nikolay": [
+    {
+      "id": 1,
+      "subject": "Car",
+      "expenses": 0
+    },
+    {
+      "id": 1,
+      "subject": "Food",
+      "expenses": 0
+    },
+    {
+      "id": 2,
+      "subject": "Car",
+      "expenses": 35
+    },
+    {
+      "id": "add4f0bf-4063-43e5-ba4b-0d7cc14c1791",
+      "subject": "Car",
+      "expenses": 35
+    },
+    {
+      "id": "e2ee6f12-b827-402c-9a63-af7f763bdc73",
+      "subject": "Car",
+      "expenses": 35
+    }
+  ]
+}
